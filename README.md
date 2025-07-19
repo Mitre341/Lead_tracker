@@ -1,5 +1,6 @@
 # Getting Started
 checked for pull request
+2 time
 Install the dependencies and run the project
 ```
 npm install
